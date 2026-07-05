@@ -3,7 +3,7 @@
 
 Este proyecto implementa la solución a dos problemas utilizando programación orientada a objetos y recorridos lineales, como parte de la materia Análisis de Algoritmos.
 
-El ZIP entregado contiene dos implementaciones del mismo programa:
+El entregado contiene dos implementaciones del mismo programa:
 
 - Una en Python
 - Una en Java
